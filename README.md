@@ -2,8 +2,6 @@
 
 This is a simple interactive web page demonstrating a box shadow effect that changes dynamically based on mouse movements. The effect is achieved using HTML, CSS, and JavaScript.
 
-This project demonstrates a dynamic box shadow effect that reacts to mouse movements. It was developed using HTML, CSS and JavaScript.
-
 <b>Usage</b>
 
 1. Clone the project to your computer.
